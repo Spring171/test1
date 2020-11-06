@@ -1,0 +1,2 @@
+#include <stdio.h> int main () #main entry function   {   
+  printf ( "Hello,World!" ); #printf function print return 1 ; #function   return value   }   
